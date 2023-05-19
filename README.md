@@ -15,8 +15,7 @@ If an invalid input is entered (a grade less than 0 or greater than 100), the pr
 After processing all the grades, the program will display a message indicating that the maximum number of students has been reached (10).
 
 # Example
-yaml
-Copy code
+```yaml
 Input grade:
 75
 New grade: 75
@@ -28,7 +27,7 @@ New grade: 40
 Input grade:
 67
 New grade: 67
-
+```
 ...
 
 Maximum number of students reached (10)
